@@ -13,3 +13,13 @@
 - **Frontend**: React
 - **Backend**: Supabase (PostgreSQL database)
 - **Styling**: CSS
+
+## Getting Started
+
+### Prerequisites
+
+Ensure you have the following installed on your local machine:
+
+- Node.js (version 12 or higher)
+- npm (version 6 or higher)
+- Supabase account and a project setup
