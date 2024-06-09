@@ -1,6 +1,14 @@
 # User management
  This is a user management application built with React and Supabase. The application allows you to create, read, update, and delete user information.
 
+## Table of Contents
+
+-Features
+-Technologies used
+-Usage
+-Contributing
+-License
+
 ## Features
 
 - Add new users with name and age
