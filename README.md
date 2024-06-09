@@ -6,6 +6,7 @@
 - Add new users with name and age
 - Edit existing users' information
 - Delete users
+- Uses Supabase for data storage.
 - View all users in a table format
 
 ## Technologies Used
