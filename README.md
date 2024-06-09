@@ -1,2 +1,2 @@
-# update
-will be updated soon now working on it
+# User management
+ This is a user management application built with React and Supabase. The application allows you to create, read, update, and delete user information.
