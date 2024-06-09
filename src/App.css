@@ -1,0 +1,185 @@
+/* Import custom font */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+/* Global Styles */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+  background: radial-gradient(circle at top left, #1a1a2e, #16213e);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  color: #f0f0f0;
+}
+
+.container {
+  width: 98%;
+  max-width: 1200px;
+  background-color: #0f3460;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+  border-radius: 15px;
+  padding: 8rem;
+  margin-left: -120px;
+  color: #f0f0f0;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 2rem;
+  color: #e94560;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+form input {
+  padding: 0.75rem;
+  font-size: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background-color: #1a1a2e;
+  color: #f0f0f0;
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+form input:focus {
+  border-color: #e94560;
+  outline: none;
+  box-shadow: 0 0 10px rgba(233, 69, 96, 0.5);
+}
+
+form button {
+  padding: 0.75rem;
+  font-size: 1rem;
+  border: none;
+  border-radius: 5px;
+  background-color: #e94560;
+  color: #f0f0f0;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+form button:hover {
+  background-color: #ff2e63;
+  transform: translateY(-2px);
+  box-shadow: 0 0 10px rgba(255, 46, 99, 0.5);
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 2rem;
+}
+
+table thead {
+  background-color: #e94560;
+  color: #f0f0f0;
+}
+
+table th, table td {
+  padding: 1rem;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+table th {
+  font-weight: 700;
+}
+
+table tr:nth-child(even) {
+  background-color: #1a1a2e;
+}
+
+table tr:hover {
+  background-color: #16213e;
+}
+
+table button {
+  padding: 0.5rem 1rem;
+  font-size: 0.875rem;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+table button.delete {
+  background-color: #ff2e63;
+  color: #f0f0f0;
+}
+
+table button.delete:hover {
+  background-color: #ff1e50;
+  transform: translateY(-2px);
+  box-shadow: 0 0 10px rgba(255, 30, 80, 0.5);
+}
+
+table button.edit {
+  background-color: #2ec4ff;
+  color: #0f3460;
+}
+
+table button.edit:hover {
+  background-color: #1bb3ff;
+  transform: translateY(-2px);
+  box-shadow: 0 0 10px rgba(27, 179, 255, 0.5);
+}
+
+
+/* table{
+  width: 100%;
+  border-collapse: collapse;
+  margin: 2em auto;
+}
+table th, table td{
+  border: 1px solid #333;
+  padding: 8px;
+}
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+} */
