@@ -7,3 +7,9 @@
 - Edit existing users' information
 - Delete users
 - View all users in a table format
+
+## Technologies Used
+
+- **Frontend**: React
+- **Backend**: Supabase (PostgreSQL database)
+- **Styling**: CSS
