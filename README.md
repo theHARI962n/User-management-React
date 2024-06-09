@@ -7,7 +7,7 @@
 - Technologies used
 - Prerequisites
 - Contributing
-- Acknoledgements
+- Acknowledgments
 
 ## Features
 
