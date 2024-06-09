@@ -5,9 +5,9 @@
 
 - Features
 - Technologies used
-- Usage
+- Prerequisites
 - Contributing
-- License
+- Acknoledgements
 
 ## Features
 
