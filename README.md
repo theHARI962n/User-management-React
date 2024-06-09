@@ -28,10 +28,6 @@ Ensure you have the following installed on your local machine:
 
 Contributions are welcome! Please create a new issue or submit a pull request for any changes.
 
-### License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ### Acknowledgments
 
 - Supabase
