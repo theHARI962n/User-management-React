@@ -23,3 +23,17 @@ Ensure you have the following installed on your local machine:
 - Node.js (version 12 or higher)
 - npm (version 6 or higher)
 - Supabase account and a project setup
+
+### Contributing
+
+Contributions are welcome! Please create a new issue or submit a pull request for any changes.
+
+### License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+### Acknowledgments
+
+- Supabase
+- React
+- Google Fonts - Roboto
