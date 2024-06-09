@@ -3,11 +3,11 @@
 
 ## Table of Contents
 
--Features
--Technologies used
--Usage
--Contributing
--License
+- Features
+- Technologies used
+- Usage
+- Contributing
+- License
 
 ## Features
 
